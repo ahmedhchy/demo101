@@ -32,6 +32,12 @@ http://103.102.27.172:8080/hls/stream2.m3u8
 
 #EXTINF:-1 group-title="BANGLA ENT., Star r 2
 http://103.102.27.172:8080/hls/stream3.m3u8 
+#EXTINF:-1 group-title="BANGLA ENT., Star r 3
+http://103.102.136.106:8080/cmcltv/tcm_StarSports1cm.m3u8
+#EXTINF:-1 group-title="BANGLA ENT., Star r 4
+http://103.84.253.5/live/fastfeed1002/index.m3u8
+#EXTINF:-1 group-title="BANGLA ENT., Star r 5
+http://89.187.169.206:2200/EX/starsports1hd-in/tracks-v1a1/mono.m3u8?token=
 
 
 #EXTINF:-1 group-title="ZEE",ZEE TV HD
